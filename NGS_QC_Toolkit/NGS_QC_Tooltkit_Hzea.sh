@@ -1,6 +1,7 @@
 #!/bin/sh
 
 #Run script as follows: NGS_QC_Toolkit_Hzea.sh >> NGS_log.txt
+#Run Parameters: -l 70 -s 20
 
 START=$(date +%s.%N)
 
